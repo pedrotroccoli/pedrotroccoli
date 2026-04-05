@@ -32,6 +32,15 @@ Currently focused in Web Development, in the last 8 years helped companies grow 
 
 **[Victus](https://www.victusjournal.com)** — All-in-one app organizer. Open source hobby project.
 
+![v0.1 — Foundation](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/1?label=v0.1%20Foundation&style=flat-square)
+![v1.0 — Core MVP](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/2?label=v1.0%20Core%20MVP&style=flat-square)
+![v1.1 — Polish & UX](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/3?label=v1.1%20Polish%20%26%20UX&style=flat-square)
+![v1.2 — Security & Platform](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/4?label=v1.2%20Security%20%26%20Platform&style=flat-square)
+![v2.0 — AI & Intelligence](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/5?label=v2.0%20AI%20%26%20Intelligence&style=flat-square)
+![v2.1 — Integrations](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/6?label=v2.1%20Integrations&style=flat-square)
+![v3.0 — Extended Modules](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/7?label=v3.0%20Extended%20Modules&style=flat-square)
+![vFuture — Dream](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/8?label=vFuture%20Dream&style=flat-square)
+
 ---
 
 ### Philosophy
