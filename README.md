@@ -41,6 +41,10 @@ Currently focused in Web Development, in the last 8 years helped companies grow 
 ![v3.0 — Extended Modules](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/7?label=v3.0%20Extended%20Modules&style=flat-square)
 ![vFuture — Dream](https://img.shields.io/github/milestones/progress/pedrotroccoli/victus/8?label=vFuture%20Dream&style=flat-square)
 
+**[1o1-utils](https://github.com/pedrotroccoli/1o1-utils)** — Common utilities library for JavaScript & TypeScript projects. Open source.
+
+![Production Ready](https://img.shields.io/github/milestones/progress/pedrotroccoli/1o1-utils/1?label=Production%20Ready&style=flat-square)
+
 ---
 
 ### Philosophy
